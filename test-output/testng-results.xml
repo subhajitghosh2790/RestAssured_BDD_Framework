@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8722" started-at="2019-09-22T22:03:12 BST" finished-at="2019-09-22T22:03:21 BST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8722" started-at="2019-09-22T22:03:12 BST" finished-at="2019-09-22T22:03:21 BST">
+      <class name="restassuredTests.Demo6_BASIC_VALIDATION_XML_Format">
+        <test-method status="PASS" signature="testSingleContent()[pri:1, instance:restassuredTests.Demo6_BASIC_VALIDATION_XML_Format@6321e813]" name="testSingleContent" duration-ms="4764" started-at="2019-09-22T22:03:13 BST" finished-at="2019-09-22T22:03:17 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSingleContent -->
+        <test-method status="PASS" signature="testMultipleContent()[pri:2, instance:restassuredTests.Demo6_BASIC_VALIDATION_XML_Format@6321e813]" name="testMultipleContent" duration-ms="882" started-at="2019-09-22T22:03:17 BST" finished-at="2019-09-22T22:03:18 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMultipleContent -->
+        <test-method status="PASS" signature="testAllContentsInOneGo()[pri:3, instance:restassuredTests.Demo6_BASIC_VALIDATION_XML_Format@6321e813]" name="testAllContentsInOneGo" duration-ms="334" started-at="2019-09-22T22:03:18 BST" finished-at="2019-09-22T22:03:19 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAllContentsInOneGo -->
+        <test-method status="PASS" signature="testUsingXPATH1()[pri:4, instance:restassuredTests.Demo6_BASIC_VALIDATION_XML_Format@6321e813]" name="testUsingXPATH1" duration-ms="653" started-at="2019-09-22T22:03:19 BST" finished-at="2019-09-22T22:03:19 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingXPATH1 -->
+        <test-method status="PASS" signature="testUsingXPATH2()[pri:5, instance:restassuredTests.Demo6_BASIC_VALIDATION_XML_Format@6321e813]" name="testUsingXPATH2" duration-ms="1890" started-at="2019-09-22T22:03:19 BST" finished-at="2019-09-22T22:03:21 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingXPATH2 -->
+      </class> <!-- restassuredTests.Demo6_BASIC_VALIDATION_XML_Format -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
